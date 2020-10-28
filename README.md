@@ -53,10 +53,9 @@
 
 ## 🔗 Deploy
 
-
-💡 Segue abaixo o link do Deploy da Aplicação
+🎲 Segue abaixo o link do Deploy da Aplicação
 <br><br>
-[Deploy da Aplicação](https://cloneflix-84c8f4.netlify.app).
+💡 [Deploy da Aplicação](https://cloneflix-84c8f4.netlify.app).
 
 <br>
 <a id="layout"></a>
