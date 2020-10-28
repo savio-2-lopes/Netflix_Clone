@@ -41,6 +41,8 @@
 
 ## 💻 Sobre o projeto
 
+<br>
+
 🚀 **CloneFlix** - é um UI Clone Responsivo da Netflix, desenvolvido com ReactJS e a API TMDB. 
 
 <br>
@@ -78,6 +80,8 @@
 
 ## 🚀 Como executar o projeto
 
+<br>
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -112,6 +116,7 @@ $ yarn start
 
 ## 🛠 Tecnologias
 
+<br>
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
