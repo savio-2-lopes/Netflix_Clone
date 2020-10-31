@@ -52,7 +52,7 @@
 
 <a id="deploy"></a>
 
-## 💡 Deploy
+## ⚡ Deploy
 
 <br>
 
