@@ -33,6 +33,7 @@
 - [Tecnologias](#tecnologias)
 - [Licença](#licenca)
 - [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
 <br>
 
@@ -142,3 +143,11 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:savio.dev.lopes@gmail.com) 
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
+
+<br>
+
+<a id="agradecimentos"></a>
+
+## 💙 Agradecimentos
+
+Baseado nas lives produzidas pelo canal [CleverProgrammer](https://www.youtube.com/c/CleverProgrammer). Meus agradecimentos por disponibilizar esse conteúdo sensacional 🚀.
